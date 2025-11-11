@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 Welcome to **CodeBook**, a social media platform for coders — built as part of the **Coders of Delhi Data Science Internship**.  
-Your goal in this project is to act as a Data Scientist Intern and use **pure Python (no pandas or NumPy)** to analyze user data, clean it, and build basic recommendation features.
+The goal in this project is to act as a Data Scientist Intern and use **pure Python (no pandas or NumPy)** to analyze user data, clean it, and build basic recommendation features.
 
 You will:
 1. Load and explore a JSON dataset of CodeBook users.  
